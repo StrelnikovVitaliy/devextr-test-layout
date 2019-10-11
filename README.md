@@ -1,3 +1,3 @@
-cd my-app
-npm -i
-npm start
+```cd my-app
+```npm -i
+```npm start
